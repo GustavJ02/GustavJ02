@@ -11,15 +11,14 @@
 
 ### 🧰 Tech stack
 
-**Languages**
-Python · TypeScript · Java · R · SQL
+**Languages:**  
+Python · Java · R · SQL · JavaScript · HTML · CSS  
 
-**Tools & Frameworks**
-Next.js · Flask · Spring Boot · Docker · SQLAlchemy · GitHub Actions
-PostgreSQL · MongoDB · Apache · Superset · Pandas · PyTorch
+**Tools & Frameworks:**  
+Next.js · Flask · Docker · SQLAlchemy · GitHub Actions · PostgreSQL · Apache · Superset · Pandas · PyTorch  
 
-**Interests**
-MLOps · Data pipelines · System design · Simulation · Motorsport analytics
+**Interests:**  
+MLOps · Data pipelines · System design · Simulation · Motorsport analytics  
 
 ---
 
@@ -46,15 +45,6 @@ MLOps · Data pipelines · System design · Simulation · Motorsport analytics
 
 [🔗 LinkedIn](https://www.linkedin.com/in/gustav-johansson-4318a31a2/)  
 💬 Always open to collaboration, engineering problems, or data challenges
-
----
-
-### 📊 GitHub overview
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GustavJ02&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavJ02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
