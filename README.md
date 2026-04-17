@@ -43,7 +43,7 @@ MLOps · Data pipelines · System design · Simulation · Motorsport analytics
 
 ### Open source projects
 
-(LiU Formula Student CFD viewer application)[https://github.com/LiU-Formula-Student/LiUFS-AeroCFD}
+[LiU Formula Student CFD viewer application](https://github.com/LiU-Formula-Student/LiUFS-AeroCFD)
 
 ---
 
