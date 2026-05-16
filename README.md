@@ -12,7 +12,7 @@
 ### 🧰 Tech stack
 
 **Languages:**  
-Python · Java · R · SQL · JavaScript · HTML · CSS  
+Python · Ada · Java · R · SQL · JavaScript · HTML · CSS
 
 **Tools & Frameworks:**  
 Next.js · Flask · Docker · SQLAlchemy · GitHub Actions · PostgreSQL · Apache · Superset · Pandas · PyTorch  
@@ -43,7 +43,8 @@ MLOps · Data pipelines · System design · Simulation · Motorsport analytics
 
 ### Open source projects
 
-[LiU Formula Student CFD viewer application](https://github.com/LiU-Formula-Student/LiUFS-AeroCFD)
+**[Gusjo](https://github.com/GustavJ02/Gusjo-Package)** — Neural network & linear algebra library built from scratch in Ada  
+**[LiUFS AeroCFD](https://github.com/LiU-Formula-Student/LiUFS-AeroCFD)** — CFD visualization tool for LiU Formula Student
 
 ---
 
