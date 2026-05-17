@@ -24,10 +24,10 @@ MLOps · Data pipelines · System design · Simulation · Motorsport analytics
 
 ### 🏁 Building now
 
-- 🧾 **LiUFS Bill of Materials** — structured parts & assembly system  
-- 📦 **Motorsport logistics platform** for race trailer & inventory planning  
-- 📊 **CarDataMining** — Swedish used-car market intelligence at scale  
-- 🤖 **Reinforcement Learning** for autonomous racing in simulation  
+- 📚 **RAG system for Wiki.js** — AI-powered documentation retrieval for LiU Formula Student's internal knowledge base  
+- 👥 **Member Database** — full-stack member management system with recruitment pipeline integrated into [liuformulastudent.se](https://liuformulastudent.se/)  
+- 💸 **FS Finance System** — internal platform for purchase requests, budgeting, and expense reimbursement  
+- 🤖 **RL racing agent** — reinforcement learning for autonomous racing in simulation
 
 ---
 
