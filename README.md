@@ -2,9 +2,9 @@
 
 ### 🚀 Industrial Engineer × Software × Motorsport
 
-🎓 4th-year **Industrial Engineering & Management** @ **Linköping University**  
+🎓 5th-year **Industrial Engineering & Management** @ **Linköping University**  
 🤖 Master’s path in **Machine Learning** & **Digital Business Development**  
-🏎️ **Vice President @ LiU Formula Student** — leading 110+ engineers & building software for race operations  
+🏎️ **Vice President @ LiU Formula Student** — leading 130+ engineers & building software for race operations  
 💡 Passion for **AI · Data · Product · Performance · Team leadership**  
 
 ---
