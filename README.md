@@ -17,7 +17,7 @@ I build data-driven software around motorsport: race simulators, live prediction
 Run the pit wall in a live race: read timing, gaps and tyres, call the stops and team orders, and handle weather, safety cars and red flags. Play solo against AI teams or with friends who each run a team in the same race.
 
 - **Deterministic simulation engine** in Python (0.5 s ticks, pre-drawn keyed randomness) — every race replays exactly from its event log
-- **Realistic simulation:** the simulations are based on data fitted from actual Formula 1 races 
+- **Data-grounded simulation:** tyre wear, stints, pit loss and safety-car rates started from values fitted on real race data, then rounded and adjusted for the public release
 - **Skill vs. luck debrief:** each decision is replayed against 24 alternative futures and scored against what the AI would have done
 - **Real-time multiplayer:** FastAPI server with one WebSocket per team and a visibility layer so clients never see hidden tyre or pace values
 - 23 circuits, rule-based AI rivals, modding via content packs; ships as a multi-arch Docker image (x86-64 / ARM64) and an offline executable
