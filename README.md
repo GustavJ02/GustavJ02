@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gustav
 
-**MSc Industrial Engineering & Management @ Linköping University** · Machine Learning & Digital Business Development
+**MSc student in Industrial Engineering & Management @ Linköping University** · Major in Computer Science, AI & Machine Learning
 **Vice President @ LiU Formula Student** — leading 130+ members & building the software the team runs on
 
 I build data-driven software around motorsport: race simulators, live prediction models, and the internal systems behind a Formula Student team.
