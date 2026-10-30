@@ -5,13 +5,13 @@
 
 I build data-driven software around motorsport: race simulators, live prediction models, and the internal systems behind a Formula Student team.
 
-[🔗 LinkedIn](https://www.linkedin.com/in/gustav-johansson-4318a31a2/) · [🏁 Play Undercut](https://undercut.vgvindkon.se/)
+[🔗 LinkedIn](https://www.linkedin.com/in/gustav-johansson-4318a31a2/) · [🏁 Play Undercut](https://undercut.gjohansson.dev/)
 
 ---
 
 ## ⭐ Featured projects
 
-### [Undercut](https://github.com/GustavJ02/Undercut) — browser race strategy game · [▶ Play](https://undercut.vgvindkon.se/)
+### [Undercut](https://github.com/GustavJ02/Undercut) — browser race strategy game · [▶ Play](https://undercut.gjohansson.dev/)
 `TypeScript` `React` `Three.js` `Python` `FastAPI` `WebSockets` `Docker`
 
 Run the pit wall in a live race: read timing, gaps and tyres, call the stops and team orders, and handle weather, safety cars and red flags. Play solo against AI teams or with friends who each run a team in the same race.
